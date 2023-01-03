@@ -6,11 +6,9 @@ This plugin for Q-Sys that controls OBS through a websocket. It was taken from a
 OBS websocket reference file:
 https://github.com/obsproject/obs-websocket/blob/master/docs/generated/protocol.md
 
-This is not an official Q-Sys or OBS product/service. Use at your own risk. 
 
 
 
-Copyright (c) 2012 by Gerhard Lipp <gelipp@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
